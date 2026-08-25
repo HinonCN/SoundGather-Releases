@@ -34,6 +34,26 @@
 - 主题配色、自定义背景、区域缩放与快捷键设置
 - 本地错误日志和 GitHub 新版本检查
 
+## 软件界面
+
+### 纯净素材模式
+
+只保留素材箱、搜索、筛选与波形预览，最大化素材浏览空间，可与剪辑软件同屏使用。
+
+![拾声纯净素材模式](assets/screenshots/soundgather-pure-mode.png)
+
+### 个性化外观
+
+内置多套主题配色，并支持自定义背景、强调色和界面密度。
+
+![拾声个性化外观设置](assets/screenshots/soundgather-appearance.png)
+
+### 关于、更新与诊断
+
+在关于页面检查 GitHub 新版本、联系开发者，并导出本地诊断日志。
+
+![拾声关于与更新页面](assets/screenshots/soundgather-about-update.png)
+
 ## 安装提示
 
 ### macOS
@@ -73,6 +93,15 @@
 - [提交 GitHub Issue](https://github.com/HinonCN/SoundGather-Releases/issues)
 - 邮箱：[cn_teaplant@163.com](mailto:cn_teaplant@163.com)
 - GitHub：[@HinonCN](https://github.com/HinonCN)
+- [小红书](https://xhslink.cn/m/2XXBZPPLEbn)
+- [哔哩哔哩](https://b23.tv/uWvp1eB)
+- [抖音](https://v.douyin.com/lSMizv-hUoc/)
+
+## 仓库与 Release 的区别
+
+- **仓库主页（本页面）**：长期的产品介绍、下载导航、安装说明和联系方式。
+- **Releases 页面**：每个版本独立的更新日志、安装包、发布时间和 SHA-256 校验信息。
+- GitHub 自动生成的“Source code”压缩包只包含本发布仓库的说明文件，**不是拾声应用源码**。
 
 ## 开发者
 
