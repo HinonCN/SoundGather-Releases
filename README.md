@@ -1,5 +1,6 @@
 # 拾声 SoundGather
 
+<img width="1024" height="1024" alt="05-minimal-wave-no-border" src="https://github.com/user-attachments/assets/50142714-dd61-4003-b8da-aaf21d73bdc3" />
 > 为影视后期工作者设计的本地音频资源管理工具  
 > 快速整理、筛选、预览和调用庞大的音乐与音效素材库。
 
