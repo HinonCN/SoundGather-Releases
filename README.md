@@ -73,15 +73,6 @@
 - [提交 GitHub Issue](https://github.com/HinonCN/SoundGather-Releases/issues)
 - 邮箱：[cn_teaplant@163.com](mailto:cn_teaplant@163.com)
 - GitHub：[@HinonCN](https://github.com/HinonCN)
-- [小红书](https://xhslink.cn/m/2XXBZPPLEbn)
-- [哔哩哔哩](https://b23.tv/uWvp1eB)
-- [抖音](https://v.douyin.com/lSMizv-hUoc/)
-
-## 仓库与 Release 的区别
-
-- **仓库主页（本页面）**：长期的产品介绍、下载导航、安装说明和联系方式。
-- **Releases 页面**：每个版本独立的更新日志、安装包、发布时间和 SHA-256 校验信息。
-- GitHub 自动生成的“Source code”压缩包只包含本发布仓库的说明文件，**不是拾声应用源码**。
 
 ## 开发者
 
